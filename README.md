@@ -1,1 +1,1 @@
-# I2C-Scaner-ESP32-Arduino-
+# I2C Scaner (ESP32 Arduino)
